@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "1",
+    "title": "iPhone 15 Pro",
+    "description": "Apple iPhone 15 Pro with A17 chip",
+    "price": 129999,
+    "category": "Mobiles",
+    "brand": "Apple",
+    "stock": 10,
+    "rating": 4.8,
+    "thumbnail": "https://example.com/images/iphone15pro.jpg",
+    "createdAt": "2025-01-10"
+  },
+  {
+    "_id": "2",
+    "title": "Samsung Galaxy S24",
+    "description": "Samsung flagship smartphone",
+    "price": 89999,
+    "category": "Mobiles",
+    "brand": "Samsung",
+    "stock": 15,
+    "rating": 4.6,
+    "thumbnail": "https://example.com/images/galaxys24.jpg",
+    "createdAt": "2025-01-12"
+  },
+  {
+    "_id": "3",
+    "title": "Sony Headphones",
+    "description": "Noise Cancelling Wireless Headphones",
+    "price": 29999,
+    "category": "Electronics",
+    "brand": "Sony",
+    "stock": 20,
+    "rating": 4.5,
+    "thumbnail": "https://example.com/images/sony-headphones.jpg",
+    "createdAt": "2025-01-15"
+  }
+]
